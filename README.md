@@ -61,10 +61,6 @@ The website is a fictional online presence for "Round Rock Cleaning Services," a
 * Fonts: The project uses the "Poppins", "Roboto" and "Mitr" fonts from Google Fonts
 * The components and styles inspired by Figma various design resources.
 
-## License
-
-This project is open-source and is available under the [MIT License](LICENSE). You are free to use, modify, and distribute this project for any purpose.
-
 ## How to Contribute
 
 Contributions to this project are welcome. To contribute, follow these steps:

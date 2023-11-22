@@ -10,7 +10,6 @@ The website has several sections including a hero section with a background imag
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 - [Features](#features)
 - [How to Contribute](#how-to-contribute)
 
